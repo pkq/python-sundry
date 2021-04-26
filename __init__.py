@@ -1,1 +1,1 @@
-from python-sundry.python_sundry import *
+from python_sundry.python_sundry import *
